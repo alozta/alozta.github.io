@@ -1,0 +1,1 @@
+place an event listener in each div and generate html properties from it.

@@ -1,0 +1,24 @@
+html, body { height: 100%; padding: 0; margin: 0; }
+div { width: 5%; height: 5%; float: left; }
+.small { background: #FFF; }
+
+#div1 { background: #111111; }
+#div2 { background: #222222; }
+#div3 { background: #333333; }
+#div4 { background: #444444; }
+#div5 { background: #555555; }
+#div6 { background: #666666; }
+#div7 { background: #777777; }
+#div8 { background: #888888; }
+#div9 { background: #999999; }
+#div10 { background: #AAAAAA; }
+#div11 { background: #BBBBBB; }
+#div12 { background: #CCCCCC; }
+#div13 { background: #DDDDDD; }
+#div14 { background: #EEEEEE; }
+#div15 { background: #FFFFFF; }
+#div16 { background: #4A4A4A; }
+#div17 { background: #5B5B5B; }
+#div18 { background: #6C6C6C; }
+#div19 { background: #7D7D7D; }
+#div20 { background: #8E8E8E; }
